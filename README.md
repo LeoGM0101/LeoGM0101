@@ -2,9 +2,6 @@
 <h3 align="center">Entusiasta de Estatistica e análise de dados/ciência de dados residente em Goiânia/Brasil</h3>
 
 - 📫 Você me acha através do email **leonardogmalaquias@gmail.com**
-
-- ⚡️ Fato curioso: **Eu gosto e tenho facilidade em aprender novas habilidades.**
-  
 - 💬 Me pergunte sobre: **Estatística, R, Python, SQL.**
 
 
